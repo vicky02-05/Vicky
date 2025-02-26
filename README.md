@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate software developer who loves to c
 - 👯 I’m looking to collaborate on any exciting open-source project.
 - 🤔 I’m looking for help with mastering Kubernetes.
 - 💬 Ask me about web development, JavaScript, Python, and open-source.
-- 📫 How to reach me: [Email](mailto:vicky02-05@example.com) | [LinkedIn](https://www.linkedin.com/in/vicky02-05)
+- 📫 How to reach me: [Email](mailto:victormuriithi05@gmail.com) | [LinkedIn](https://www.linkedin.com/in/vicky02-05)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love playing chess and hiking.
 
